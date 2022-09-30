@@ -1,0 +1,23 @@
+.app {
+    /*display: flex;*/
+    /*align-items: center;*/
+    /*height: 100vh;*/
+    /*padding-top:213px;*/
+    /*padding-: 47px;*/
+    padding: 213px 47px 0;
+}
+
+.title {
+    width: 753px;
+    margin-bottom: 32px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 90%;
+    color: #111111;
+}
+
+.ranges {
+    display: flex;
+    gap: 32px;
+}
