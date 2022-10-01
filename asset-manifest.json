@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ranges-react/static/css/main.146c5690.css",
+    "main.js": "/ranges-react/static/js/main.34d5115d.js",
+    "static/js/787.f0be6f43.chunk.js": "/ranges-react/static/js/787.f0be6f43.chunk.js",
+    "static/media/Gilroy-Regular.eot": "/ranges-react/static/media/Gilroy-Regular.19055ba082a9f78262f6.eot",
+    "static/media/Gilroy-Regular.ttf": "/ranges-react/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "static/media/Gilroy-Regular.woff": "/ranges-react/static/media/Gilroy-Regular.ebe86c0337572553acea.woff",
+    "static/media/Gilroy-Regular.woff2": "/ranges-react/static/media/Gilroy-Regular.f6c9931fabe5a6eb3307.woff2",
+    "index.html": "/ranges-react/index.html",
+    "static/media/Nekst-Black.eot": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.eot",
+    "static/media/Nekst-Black.ttf": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.ttf",
+    "static/media/Nekst-Black.woff": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.woff",
+    "static/media/Nekst-Black.woff2": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.woff2",
+    "main.146c5690.css.map": "/ranges-react/static/css/main.146c5690.css.map",
+    "main.34d5115d.js.map": "/ranges-react/static/js/main.34d5115d.js.map",
+    "787.f0be6f43.chunk.js.map": "/ranges-react/static/js/787.f0be6f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146c5690.css",
+    "static/js/main.34d5115d.js"
+  ]
+}
