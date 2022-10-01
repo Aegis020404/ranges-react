@@ -2,12 +2,7 @@
     width: 100%;
 }
 
-.title {
-    font-family: var(--second-font);
-    font-size: 16px;
-    line-height: 20px;
-    margin-bottom: 24px;
-}
+
 .rangeWrapInput {
     position: relative;
     height: 68px;

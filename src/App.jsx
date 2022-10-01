@@ -2,6 +2,7 @@ import cl from './styles/App.module.css'
 import Range from "./components/Range";
 import {useSelector} from "react-redux";
 import {useState} from "react";
+import MiniTitle from "./components/UI/MiniTitle";
 
 function App() {
     const {disabled, list} = useSelector(state => state.range)
@@ -21,6 +22,17 @@ function App() {
                     />
                 )
             }
+        </div>
+        <div className={cl.results}>
+            <div className={cl.result}>
+                <MiniTitle text='Сумма договора лизинга'/>
+                <div className={cl.price}></div>
+            </div>
+            <div className={cl.result}>
+                <MiniTitle text='Ежемесячный платеж от'/>
+                <div className={cl.price}></div>
+            </div>
+
         </div>
 
 
