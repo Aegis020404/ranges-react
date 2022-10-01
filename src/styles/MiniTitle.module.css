@@ -4,3 +4,10 @@
     line-height: 20px;
     margin-bottom: 24px;
 }
+@media (max-width: 900px) {
+.miniTitle {
+    margin-bottom: 2px;
+    font-size: 14px;
+    line-height: 136%;
+}
+}

@@ -8,17 +8,13 @@ const Range = ({disabled, setValues, values, id}) => {
     let value = values.find(el => id === el.id)
     const input = useRef()
     const [dangerColor, setDangerColor] = useState('#575757')
-
-    const [getMax, setMax] = useState(values[1].max * values[0].defaultValue)
-    const [getMin, setMin] = useState(values[1].min * values[0].defaultValue)
-    // const getMax = (value) =>  value.max * values[0].defaultValue
-    // const getMin = (value) => value.min * values[0].defaultValue
-
-
+    const [getMax, setMax] = useState(values[1].max * values[0].defaultValue  )
+    const [getMin, setMin] = useState(values[1].min * values[0].defaultValue  )
     let [sliderTrack, setSliderTrack] = useState('red')
     useEffect(() => {
         setMax(values[1].max * values[0].defaultValue)
         setMin(values[1].min * values[0].defaultValue)
+
 
 
         let percent
