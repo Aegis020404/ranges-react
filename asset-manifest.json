@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ranges-react/static/css/main.146c5690.css",
+    "main.css": "/ranges-react/static/css/main.1b559835.css",
     "main.js": "/ranges-react/static/js/main.34d5115d.js",
     "static/js/787.f0be6f43.chunk.js": "/ranges-react/static/js/787.f0be6f43.chunk.js",
     "static/media/Gilroy-Regular.eot": "/ranges-react/static/media/Gilroy-Regular.19055ba082a9f78262f6.eot",
@@ -12,12 +12,12 @@
     "static/media/Nekst-Black.ttf": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.ttf",
     "static/media/Nekst-Black.woff": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.woff",
     "static/media/Nekst-Black.woff2": "/ranges-react/static/media/Nekst-Black.31d6cfe0d16ae931b73c.woff2",
-    "main.146c5690.css.map": "/ranges-react/static/css/main.146c5690.css.map",
+    "main.1b559835.css.map": "/ranges-react/static/css/main.1b559835.css.map",
     "main.34d5115d.js.map": "/ranges-react/static/js/main.34d5115d.js.map",
     "787.f0be6f43.chunk.js.map": "/ranges-react/static/js/787.f0be6f43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.146c5690.css",
+    "static/css/main.1b559835.css",
     "static/js/main.34d5115d.js"
   ]
 }
