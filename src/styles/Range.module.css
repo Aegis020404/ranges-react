@@ -31,8 +31,8 @@
 .rangeInput {
     cursor: pointer;
     height: 2px;
-    width: 90%;
-    /*width: auto;*/
+    /*width: 90%;*/
+    width: auto;
     -webkit-appearance: none;
     position: absolute;
     bottom: -3px;
@@ -159,5 +159,15 @@
         padding: 20px;
         font-size: 22px;
     }
+
+}
+@media (max-width: 756px) {
+    .desc {
+        font-size: 22px;
+    }
+    .descTop {
+        font-size: 22px !important;
+    }
+
 
 }
