@@ -15,8 +15,6 @@ const Range = ({disabled, setValues, values, id}) => {
         setMax(values[1].max * values[0].defaultValue)
         setMin(values[1].min * values[0].defaultValue)
 
-
-
         let percent
         if (value.id !== 1) {
             percent = (value.defaultValue - value.min) * 100 / (value.max - value.min)
