@@ -33,7 +33,6 @@ export const rangeSlice = createSlice({
                 step:1
             },
         ],
-        disabled: false,
     },
     reducers: {}
 })

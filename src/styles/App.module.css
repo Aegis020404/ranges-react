@@ -73,6 +73,17 @@
 .btn:disabled {
     background: rgba(255, 149, 20, 0.4);
 }
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+.preloader {
+    animation: rotating 1s linear infinite;
+}
 
 @media (max-width: 1200px) {
     .ranges {
